@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adnanpal/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/adnanpal/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adnanpal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/adnanpal/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adnanpal/LeetCode/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adnanpal/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adnanpal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/adnanpal/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adnanpal/LeetCode/tree/master/0283-move-zeroes) |
@@ -23,4 +25,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/adnanpal/LeetCode/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/adnanpal/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
