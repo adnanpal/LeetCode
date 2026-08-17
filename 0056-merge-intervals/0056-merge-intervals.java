@@ -7,7 +7,7 @@ class Solution {
         int n = intervals.length;
         ans.add(Arrays.asList(intervals[0][0],intervals[0][1]));
 
-        for(int i = 0;i<n;i++){
+        for(int i = 1;i<n;i++){
 
             List<Integer> last = ans.get(ans.size()-1);
 
