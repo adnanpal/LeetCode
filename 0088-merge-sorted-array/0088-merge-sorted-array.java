@@ -1,52 +1,33 @@
-import java.util.*;
-
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
 
-        int[] arr3 = new int[m + n];
+        int left = m-1;
+        int right = n-1;
+        int index = m+n-1;
 
-        int left = 0;   // nums1 pointer
-        int right = 0;  // nums2 pointer
-        int index = 0;  // arr3 pointer
+        while (left >= 0 && right >= 0){
 
-        // Compare elements from both arrays
-        while (left < m && right < n) {
+            if( nums1[left] >=  nums2[right]){
+                nums1[index] = nums1[left];
 
-            if (nums1[left] <= nums2[right]) {
+                left--;
+                index--;
 
-                arr3[index] = nums1[left];
+            }else if( nums1[left] <= nums2[right]){
 
-                left++;
-                index++;
+                nums1[index] = nums2[right];
+                right--;
+                index--;
 
-            } else {
-
-                arr3[index] = nums2[right];
-
-                right++;
-                index++;
             }
         }
 
-        // Remaining elements of nums1
-        while (left < m) {
-            arr3[index] = nums1[left];
+        while (right >= 0) {
+            nums1[index] = nums2[right];
 
-            left++;
-            index++;
+            right--;
+            index--;
         }
-
-        // Remaining elements of nums2
-        while (right < n) {
-            arr3[index] = nums2[right];
-
-            right++;
-            index++;
-        }
-
-        // Copy merged array back into nums1
-        for (int i = 0; i < m + n; i++) {
-            nums1[i] = arr3[i];
-        }
+        
     }
 }
