@@ -1,8 +1,8 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
 
-        sort(nums1);
-        sort(nums2);
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
 
         int[] temp = new int[Math.min(nums1.length, nums2.length)];
         int count = 0;
@@ -53,19 +53,4 @@ class Solution {
         return false;
     }
 
-    public static void sort(int[] nums) {
-
-        for (int i = 0; i < nums.length - 1; i++) {
-
-            for (int j = 0; j < nums.length - 1 - i; j++) {
-
-                if (nums[j] > nums[j + 1]) {
-
-                    int temp = nums[j];
-                    nums[j] = nums[j + 1];
-                    nums[j + 1] = temp;
-                }
-            }
-        }
-    }
 }
