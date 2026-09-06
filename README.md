@@ -34,6 +34,7 @@
 | [0268-missing-number](https://github.com/adnanpal/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adnanpal/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/adnanpal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/adnanpal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/adnanpal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/adnanpal/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adnanpal/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -104,6 +105,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adnanpal/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/adnanpal/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adnanpal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/adnanpal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/adnanpal/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adnanpal/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adnanpal/LeetCode/tree/master/0704-binary-search) |
@@ -121,6 +123,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/adnanpal/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adnanpal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Quicksort
 |  |
@@ -153,6 +156,7 @@
 | [0053-maximum-subarray](https://github.com/adnanpal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/adnanpal/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/adnanpal/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/adnanpal/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -192,4 +196,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/adnanpal/LeetCode/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/adnanpal/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
