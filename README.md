@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adnanpal/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -210,4 +211,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/adnanpal/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
