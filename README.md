@@ -183,6 +183,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adnanpal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -215,8 +216,10 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
