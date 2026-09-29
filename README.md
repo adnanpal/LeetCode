@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adnanpal/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/adnanpal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/adnanpal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/adnanpal/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adnanpal/LeetCode/tree/master/0229-majority-element-ii) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adnanpal/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/adnanpal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/adnanpal/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adnanpal/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adnanpal/LeetCode/tree/master/0268-missing-number) |
@@ -181,6 +183,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/adnanpal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adnanpal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
