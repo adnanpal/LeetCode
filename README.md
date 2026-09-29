@@ -62,6 +62,7 @@
 | [0268-missing-number](https://github.com/adnanpal/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adnanpal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/adnanpal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/adnanpal/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/adnanpal/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adnanpal/LeetCode/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/adnanpal/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0014-longest-common-prefix](https://github.com/adnanpal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/adnanpal/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Trie
 |  |
 | ------- |
