@@ -88,6 +88,7 @@
 | [0050-powx-n](https://github.com/adnanpal/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/adnanpal/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adnanpal/LeetCode/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/adnanpal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adnanpal/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/adnanpal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/adnanpal/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/adnanpal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
