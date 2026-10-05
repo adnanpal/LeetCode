@@ -21,7 +21,7 @@ class Solution {
 
             } else {
 
-              
+                // Target character cannot already be mapped
                 if (map.containsValue(tArray[i])) {
                     return false;
                 }
