@@ -58,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/adnanpal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/adnanpal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/adnanpal/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/adnanpal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/adnanpal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/adnanpal/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adnanpal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -193,6 +194,7 @@
 | [0008-string-to-integer-atoi](https://github.com/adnanpal/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/adnanpal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adnanpal/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/adnanpal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adnanpal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adnanpal/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
